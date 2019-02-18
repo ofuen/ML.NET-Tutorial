@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Oscar\\Desktop\\CodeHid\\myApp\\myApp.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
