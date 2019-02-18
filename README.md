@@ -10,3 +10,4 @@ Download data set [UCI Machine Learning Repository: Iris Data Set](https://archi
 ***
 # Run your app
 ` > dotnet run`
+![Alt Text](https://github.com/ofuen/ML.NET-Tutorial/blob/master/screenshot/2019-02-18_12-47-09.gif)
