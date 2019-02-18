@@ -6,3 +6,4 @@ ML.NET Tutorial | An app that can predict the type of iris flower based on featu
 ***
 # Download data set
 Download data set [UCI Machine Learning Repository: Iris Data Set](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data)
+`copy and paste the data into a text editor (e.g. Notepad), and save it as iris-data.txt in the myApp directory. `
