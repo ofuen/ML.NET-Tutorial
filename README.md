@@ -11,3 +11,6 @@ Download data set [UCI Machine Learning Repository: Iris Data Set](https://archi
 # Run your app
 ` > dotnet run`
 ![Alt Text](https://github.com/ofuen/ML.NET-Tutorial/blob/master/screenshot/2019-02-18_12-47-09.gif)
+***
+`The last line of output is the predicted type of iris flower. You can change the values passed to the Predict function to see predictions based on different measurements.`
+***
